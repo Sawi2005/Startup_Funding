@@ -51,10 +51,9 @@ An interactive **Streamlit Dashboard** for exploring the **Indian Startup Fundin
 The dataset was preprocessed before visualization by:
 
 - Removing unwanted whitespace and encoding issues
-- Standardizing investor names using fuzzy matching
+- Standardizing investor names that were spelled differently across rows
 - Handling missing values
 - Cleaning categorical data
-- Optimizing loading performance using `st.cache_data`
 
 ---
 
@@ -62,6 +61,7 @@ The dataset was preprocessed before visualization by:
 
 - Python
 - Streamlit
+- NumPy
 - Pandas
 - Plotly
 
