@@ -86,7 +86,7 @@ The project uses the **Indian Startup Funding Dataset** containing information s
 Clone the repository
 
 ```bash
-git clone https://github.com/Sawi2005/startup_dasboard.git
+git clone https://github.com/Sawi2005/Startup_Funding.git
 ```
 
 Go to the project directory
